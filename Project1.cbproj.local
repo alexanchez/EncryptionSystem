@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016.10.15 13:28:54.239.cpp,C:\Users\User\Documents\RAD Studio\Projects\Unit1.cpp=C:\Users\User\Documents\RAD Studio\Projects\Шифр Цезаря\Unit1.cpp</Transaction>
+    <Transaction>2016.10.15 13:28:54.239.h,C:\Users\User\Documents\RAD Studio\Projects\Unit1.h=C:\Users\User\Documents\RAD Studio\Projects\Шифр Цезаря\Unit1.h</Transaction>
+    <Transaction>2016.10.15 13:28:54.239.dfm,C:\Users\User\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\User\Documents\RAD Studio\Projects\Шифр Цезаря\Unit1.dfm</Transaction>
+    <Transaction>2016.10.15 13:28:55.037.cbproj,C:\Users\User\Documents\RAD Studio\Projects\Project1.cbproj=C:\Users\User\Documents\RAD Studio\Projects\Шифр Цезаря\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
